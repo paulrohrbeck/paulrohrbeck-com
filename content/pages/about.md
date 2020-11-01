@@ -1,7 +1,7 @@
 ---
 title: "Hi there!"
 template: "page"
-socialImage: "/media/photo.jpg"
+socialImage: "/photo.jpg"
 ---
 
 I've been building websites since I was 15 years old and it's still one of my big passions to this day. At the moment, I'm primarily focused on helping large companies with their digital marketing transformation using the Adobe Experience Cloud tools. I love making people's live easier through improved software and processes.
