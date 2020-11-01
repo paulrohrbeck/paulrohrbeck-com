@@ -1,13 +1,13 @@
 ---
-title: "About me"
+title: "Hi there!"
 template: "page"
-socialImage: "/media/image-2.jpg"
+socialImage: "/media/photo.jpg"
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.
+I've been building websites since I was 15 years old and it's still one of my big passions to this day. At the moment, I'm primarily focused on helping large companies with their digital marketing transformation using the Adobe Experience Cloud tools. I love making people's live easier through improved software and processes.
 
-![Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.](/media/image-2.jpg)
+I currently work for [Bounteous](https://www.bounteous.com/) in San Francisco as a Technical Director and Multi-Solution Architect for strategic accounts.
 
-*Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra. Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi.*
+For more information check out my [LinkedIn](https://www.linkedin.com/in/paulrohrbeck) profile or see what I'm up to on [Github](https://github.com/paulrohrbeck).
 
-Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus
+If you want to get in touch, please message me on LinkedIn.
