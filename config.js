@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://www.paulrohrbeck.com',
   pathPrefix: '/',
   title: 'Paul Rohrbeck',
-  subtitle: 'Technical Director & Multi-Solution Architect',
+  subtitle: 'Technical Director & Solution Architect',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 3,
@@ -23,7 +23,7 @@ module.exports = {
   author: {
     name: 'Paul Rohrbeck',
     photo: '/photo.jpg',
-    bio: 'Technical Director & Multi-Solution Architect',
+    bio: 'Technical Director & Solution Architect',
     contacts: {
       email: '',
       facebook: '',
